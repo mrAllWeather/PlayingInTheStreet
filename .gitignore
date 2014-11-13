@@ -41,3 +41,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#################
+# Unreal Engine 4
+#################
+
+DerivedDataCache
+Intermediate
+Saved
